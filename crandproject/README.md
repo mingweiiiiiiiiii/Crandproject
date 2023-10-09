@@ -2,6 +2,11 @@
 
 The first individual assignment for CS7IS3-Information Retrieval.
 
+## Author
+
+**[Mingwei]**
+
+- Email: mshi@tcd.ie
 
 # My Project Root folder: `~/crandproject`.
 
