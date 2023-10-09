@@ -4,7 +4,7 @@ The first individual assignment for CS7IS3-Information Retrieval.
 
 ## Author
 
-**[Mingwei]**
+**Mingwei**
 
 - Email: mshi@tcd.ie
 
