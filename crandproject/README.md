@@ -9,7 +9,7 @@ The first individual assignment for CS7IS3-Information Retrieval.
 
 
 ```txt
-.
+
 ├── ExternalFile
 │   ├── cran.all.1400
 │   └── cran.qry
