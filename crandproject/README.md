@@ -7,7 +7,8 @@ The first individual assignment for CS7IS3-Information Retrieval.
 
 ## The project tree structure
 
-'''
+
+```txt
 .
 ├── ExternalFile
 │   ├── cran.all.1400
@@ -237,7 +238,9 @@ The first individual assignment for CS7IS3-Information Retrieval.
     └── utility_pool.c
 
 39 directories, 188 files
-'''
+```
+
+
 ## Running command
 
 run `bash execute.sh` in the terminal .You could see the process from maven packaging,program execution, and evaluation.In ' execute.sh',I remove previous generated files such as "outputa1-s2-f2.txt".Executing mavn cleanning and packaging is the next step.Lastly,running `java -jar target/crandproject-1.0-SNAPSHOT.jar`  command is to comiple the project.
