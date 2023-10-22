@@ -9,7 +9,9 @@ The first individual assignment for CS7IS3-Information Retrieval.
 - Email: mshi@tcd.ie
 
 # My Project Root folder: `~/crandproject`.
+## Postion in Azure for IP addrrss:Public IP address: 20.56.158.28
 
+![Project poistion](https://github.com/mingweiiiiiiiiii/Crandproject/blob/master/crandproject/PoSITION.jpg)
 ## The project tree structure
 
 
